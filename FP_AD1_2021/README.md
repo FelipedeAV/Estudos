@@ -83,3 +83,4 @@ Faça um programa, contendo subprograma, que leia strings da entrada padrão at�
 
 <u>Definição:</u> uma string é palíndrome se e somente se o primeiro caractere é igual ao último, o segundo caractere é igual ao penúltimo, e assim sucessivamente.
  
+![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q6_img_saida.PNG?raw=true "Optional title")
