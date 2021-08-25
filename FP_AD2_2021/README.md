@@ -3,7 +3,7 @@
 
 ## 📌Questão 01
 
-( )
+(Q1/Q1-F)
 
 Faça um programa, contendo subprogramas, que leia da entrada padrão o nome de um arquivo do tipo texto contendo informações sobre a vacinação da Covid. Mostre inicialmente seu conteúdo. Cada linha possui as seguintes três informações:
 
@@ -15,13 +15,13 @@ uma vacina daquele tipo. Ao final, mostre conteúdo dos sete arquivos produzidos
 **Restrição:** Está proibido o uso de listas para manter nomes de pessoas e vacinas, etc. Suas eventuais listas devem possuir no máximo sete elementos. Caso esta restrição não seja respeitada, sua solução perderá 50% do valor da questão. Isto é, toda a massa de informações deve residir em arquivo do tipo texto.
 
 **Teste:**
-![Alt text](?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q1.png?raw=true "Optional title")
 
 
 
 # 📌Questão 02
 
-(Q2-F)
+(Q2/Q2-F)
 
 Faça um programa, contendo subprogramas, que leia da entrada padrão o nome de um arquivo do tipo texto contendo em cada linha o nome de um apostador e oito números diferentes escolhidos por ele no intervalo 0 a 99. Suponha que cada item seja separado pelo caractere “#”. Ou seja:
 
@@ -39,13 +39,13 @@ Caso nenhuma aposta esteja contida no arquivo, escreva a mensagem “Nenhuma Apo
 cada grupo, iniciando com 8 acertos e finalizando com 3 acertos e seus respectivos nomes, ordenados alfabeticamente de forma crescente. Caso ninguém tenha acertado 3 ou mais números, escreva a mensagem “ACUMULOU TUDO”.
 
 **Teste:**
-![Alt text](?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q2.png?raw=true "Optional title")
 
 
 
 # 📌Questão 03
 
-(Q3-F)
+(Q3/Q3-F)
 
 Escreva um programa que faça análises sobre consumos de carros movidos a álcool e a gasolina. Seu programa deve avaliar com carro mais econômico no ano desejado, de acordo
 com a quilometragem desejada do carro andar na cidade e na estrada. Segue abaixo todos os detalhes a serem feitos.
@@ -71,7 +71,7 @@ A saída deverá ser em um arquivo “carro_mais_economico.txt” e deve possuir
 Ano avaliado, o carro mais econômico utilizando somente gasolina e somente álcool no ano desejado, juntamente com o quanto do tanque foi utilizado e o valor gasto para a quilometragem.
 
 **Teste:**
-![Alt text](?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q3.png?raw=true "Optional title")
 
 **Obs.: O arquivo .bin aparece no exemplo dessa forma para melhor compreensão da questão.**
 
@@ -80,7 +80,7 @@ Ano avaliado, o carro mais econômico utilizando somente gasolina e somente álc
 
 # 📌Questão 04
 
-(Q4-F)
+(Q4/Q4-F)
 
 Escreva um programa que computa os preços de um determinado produto juntamente com o frete do mesmo. A entrada contém dois arquivos e uma string: (1) "frete.bin", que consiste de
 CEP's, 8 bytes, juntamente do valor do frete do produto; (2) "produto.txt", que consiste das lojas juntamente do valor do produto desejado; (3) string que consiste do CEP onde deseja-se a entrega, que pode estar do formato xx.xxx-xxx, xx.xxx.xxx ou xxxxxxxx.
@@ -88,4 +88,4 @@ CEP's, 8 bytes, juntamente do valor do frete do produto; (2) "produto.txt", que 
 A saída deve ter na tela a loja que possui o menor preço com o frete e o preço total desse produto. Caso o CEP não exista em frete.bin, então a saída deve ser: "O produto desejado não pode ser entregue neste frete".
 
 **Exemplo**
-![Alt text](?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q4.png?raw=true "Optional title")
