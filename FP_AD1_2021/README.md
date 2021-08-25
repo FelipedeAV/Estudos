@@ -19,7 +19,7 @@ Entrada: Dois inteiros. O primeiro indica a distância percorrida pelo carro, em
 
 Saída: Ordem de grandeza do número de voltas efetuadas pela roda deste carro.
 
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q1_img_saida.PNG?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD1_2021/Imagens/Q1_imagem_saida.png?raw=true "Optional title")
 
 
 
@@ -35,7 +35,7 @@ Considere um DNA por uma sequência do alfabeto A, C, G, T, associando as bases 
 
 **Saída:** Todas substrings t′ de t tal que a distância de Hamming entre t′ e s seja no máximo k . Cada substring deve ser codificada na sua saída pela posição inicial em t seguida pelas posições onde t′ e s diferem. Se as entradas estiverem fora dos valores delimitados, então escreva "Valores não estão de acordo".
 
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q2_img_saida.PNG?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD1_2021/Imagens/Q2_imagem_saida.png?raw=true "Optional title")
 
 
 
@@ -51,7 +51,7 @@ Sr Cederjeano notou que estava engordando muito durante a pandemia e decidiu ent
 2. Exiba por linha o par produto e loja com menores preço; 
 3. Exiba o total a ser gasto ao considerar os menores preços.
 
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q3_img_saida.PNG?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD1_2021/Imagens/Q3_imagem_saida.png?raw=true "Optional title")
 
 
 
