@@ -4,6 +4,6 @@
  
  - Fundamentos da Programação (FP)
  
-                                                                      do curso de Tecnologias em Sistemas de Computação. 
+ do curso de Tecnologias em Sistemas de Computação. 
  
  A linguagem utilizada foi Python.
