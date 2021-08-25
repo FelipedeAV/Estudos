@@ -1,4 +1,4 @@
-# :rocket: APX2-Fundamentos-de-Programação
+# :rocket: APX2-Fundamentos-da-Programação
 :computer: APX2 de Fundamentos da Programação de 2021.1
 
 ## 📌Questão 01
