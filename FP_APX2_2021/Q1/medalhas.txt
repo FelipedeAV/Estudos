@@ -1,0 +1,6 @@
+brasil#prata#judô masculino -70k
+japão#ouro#judô masculino -70k
+eua#bronze#judô masculino -70k
+frança#bronze#judô masculino -70k
+brasil#ouro#judô feminino -70k
+brasil#bronze#judô feminino -70k
