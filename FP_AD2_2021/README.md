@@ -40,6 +40,7 @@ Caso nenhuma aposta esteja contida no arquivo, escreva a mensagem “Nenhuma Apo
 cada grupo, iniciando com 8 acertos e finalizando com 3 acertos e seus respectivos nomes, ordenados alfabeticamente de forma crescente. Caso ninguém tenha acertado 3 ou mais números, escreva a mensagem “ACUMULOU TUDO”.
 
 **Teste:**
+
 ![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q2.png?raw=true "Optional title")
 
 
@@ -72,6 +73,7 @@ A saída deverá ser em um arquivo “carro_mais_economico.txt” e deve possuir
 Ano avaliado, o carro mais econômico utilizando somente gasolina e somente álcool no ano desejado, juntamente com o quanto do tanque foi utilizado e o valor gasto para a quilometragem.
 
 **Teste:**
+
 ![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q3.png?raw=true "Optional title")
 
 **Obs.: O arquivo .bin aparece no exemplo dessa forma para melhor compreensão da questão.**
@@ -89,4 +91,5 @@ CEP's, 8 bytes, juntamente do valor do frete do produto; (2) "produto.txt", que 
 A saída deve ter na tela a loja que possui o menor preço com o frete e o preço total desse produto. Caso o CEP não exista em frete.bin, então a saída deve ser: "O produto desejado não pode ser entregue neste frete".
 
 **Exemplo**
+
 ![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q4.png?raw=true "Optional title")
