@@ -15,6 +15,7 @@ uma vacina daquele tipo. Ao final, mostre conteúdo dos sete arquivos produzidos
 **Restrição:** Está proibido o uso de listas para manter nomes de pessoas e vacinas, etc. Suas eventuais listas devem possuir no máximo sete elementos. Caso esta restrição não seja respeitada, sua solução perderá 50% do valor da questão. Isto é, toda a massa de informações deve residir em arquivo do tipo texto.
 
 **Teste:**
+
 ![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD2_2021/Imagens/AD2_Imagem_Q1.png?raw=true "Optional title")
 
 
