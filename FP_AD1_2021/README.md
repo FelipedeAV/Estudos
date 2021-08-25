@@ -63,7 +63,7 @@ Faça um programa, contendo subprogramas, que leia linhas da entrada padrão at�
 
 <u>Definição:</u> a distância entre dois pontos (xA,yA) e (xB,yB) é dada pela raiz quadrada da soma do quadrado das diferenças (xB-xA) e (yB-yA).
 
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q4_img_saida.PNG?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD1_2021/Imagens/Q4_imagem_saida.png?raw=true "Optional title")
 
 # 📌Questão 05
 
@@ -71,7 +71,7 @@ Faça um programa, contendo subprogramas, que leia linhas da entrada padrão at�
 
 Faça um programa, contendo subprogramas, que leia inicialmente a contagem de candidatos em uma eleição. Em seguida, em cada linha, leia o nome de um dos candidatos e seu respectivo número positivo, separados por um #. Utilize uma estrutura de dados para manter estas informações. Em seguida, leia números representando votos da eleição. Um voto por linha lida, até que um número negativo seja digitado. Totalize e escreva na saída padrão os votos de cada candidato, suponha que o número zero represente um voto em branco e um número positivo que não pertença a nenhum dos candidatos seja um voto nulo. Ao final, também escreva quantos foram os votos em branco e quantos foram os votos nulos.
 
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q5_img_saida.PNG?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD1_2021/Imagens/Q5_imagem_saida.png?raw=true "Optional title")
 
 
 
@@ -83,4 +83,4 @@ Faça um programa, contendo subprograma, que leia strings da entrada padrão at�
 
 <u>Definição:</u> uma string é palíndrome se e somente se o primeiro caractere é igual ao último, o segundo caractere é igual ao penúltimo, e assim sucessivamente.
  
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q6_img_saida.PNG?raw=true "Optional title")
+![Alt text](https://github.com/FelipedeAV/Estudos/blob/main/FP_AD1_2021/Imagens/Q6_imagem_saida.png?raw=true "Optional title")
